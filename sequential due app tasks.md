@@ -29,7 +29,7 @@ And all the spaces (%20) in the second task name must have their percent sign en
 ## You Don't Have to Stop at Two
 
 
-To add a third url, just encode each percent sign a third time:
+To add a third task, encode each percent sign a third time:
 
     due:///add?title=Dry%20laundry%20[prompt-num]%20minutes%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20due%3A%2F%2F%2Fadd%3Ftitle%3Dfold%2520laundry%25205%2520PM%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520due%253A%252F%252F%252Fadd%253Ftitle%253DVisit%252520Cold%252520One%252520City 
 

@@ -16,7 +16,7 @@ The Launch Center Pro Action will create the initial task. Once the task complet
 
 ## The URL
 
-Writing the URL is simple: every task appended to the sequence requires and additional round of [percent encoding][3].
+Writing the URL is simple: every task appended to the sequence requires and additional round of [percent encoding][3][^1].
 
 The second encoded URL now begins: 
 
@@ -37,6 +37,7 @@ To add a third task, encode each percent sign a third time:
     
 NB: The string of spaces separating two URLS are not required. It is for appearance only.
 
+[^1]: One exception: do not encode the Launch Center Pro prompt brackets.
 
 [1]: http://appcubby.com/launch-center/
 [2]: http://www.dueapp.com

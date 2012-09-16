@@ -8,7 +8,7 @@ This example uses [Launch Center Pro][1] to create a sequence of new [Due app][2
 
 I hate doing laundry, and my wife hates nagging me to finish the entire process.  To maintain that loving feeling, I create a new Launch Center Pro custom URL action that includes the first task title and a due://  URL.
 
-    due:///add?title=Dry%20laundry%20[prompt-num]%20minutes%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20due%3A%2F%2F%2Fadd%3Ftitle%3Dfold%2520laundry%25205%2520PM
+`due:///add?title=Dry%20laundry%20[prompt-num]%20minutes%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20due%3A%2F%2F%2Fadd%3Ftitle%3Dfold%2520laundry%25205%2520PM`
     
 ## How it Works
 

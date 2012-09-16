@@ -18,7 +18,7 @@ The Launch Center Pro Action will create the initial task. Once the task complet
 
 Writing the URL is simple: every task appended to the sequence requires and additional round of [percent encoding][3].
 
-The second encoded url now begins: 
+The second encoded URL now begins: 
 
     due%3A%2F%2F%2Fadd%3Ftitle%3D
     

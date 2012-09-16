@@ -12,7 +12,7 @@ I hate doing laundry, and my wife hates nagging me to finish the entire process.
     
 ## How it Works
 
-The Launch Center Pro Action will create the initial task. Once the task completed, Due app will prompt the user to open the the embedded URL. With one confirmation tap, the second task is created.
+The Launch Center Pro Action will create the initial task. Once the task completed, Due app will prompt the user to open the embedded URL. With one confirmation tap, the second task is created.
 
 ## The URL
 

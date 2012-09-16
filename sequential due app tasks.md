@@ -16,7 +16,7 @@ The Launch Center Pro Action will create the initial task. Once the task complet
 
 ## The URL
 
-Writing the URL is simple: every task appended to the sequence requires and additional round of [percent encoding][3][^1].
+Writing the URL is simple: every task appended to the sequence requires and additional round of [percent encoding][3]. (There is one exception: do not encode the Launch Center Pro prompt brackets).
 
 The second encoded URL now begins: 
 

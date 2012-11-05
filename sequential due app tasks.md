@@ -37,7 +37,6 @@ To add a third task, encode each percent sign a third time:
     
 NB: The string of spaces separating two URLS are not required. It is for appearance only.
 
-[^1]: One exception: do not encode the Launch Center Pro prompt brackets.
 
 [1]: http://appcubby.com/launch-center/
 [2]: http://www.dueapp.com

@@ -35,7 +35,7 @@ To add a third task, encode each percent sign a third time:
 
 ----
     
-NB: The string of spaces separating two URLS are not required. It is for appearance only.
+NB: The string of spaces separating two URLS are not required. It is for appearance only. For some reason, the Mac app ignores encoded carriage returns. If you're only using the iOS aps, you can replace all of the separating %20 and %2520 with %5Cr and %255Cr.
 
 
 [1]: http://appcubby.com/launch-center/
